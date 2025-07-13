@@ -90,30 +90,3 @@ console.log('Application Refused', applicationrefused)
 //NaN
 
 //Anything that is not falsy - > Truthy
-
-//control flow
-
-HTML + CSS + Javascript + React 
-
-HTML 5
-
-CSS Basic + Advanced 
-CSS bootstrap = Old 
-CSS taliwinf = New & latest
-
-Javascript Language 
-
-Design pattern = React*, Angular
-
-
-Language
-Cloud 
-Process
-
-
-
-
-Git and Github
-
-AWS machine - cloud - CICD engine - Jenkins 
-
